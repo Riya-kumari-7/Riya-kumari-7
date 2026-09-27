@@ -1,16 +1,59 @@
-## Hi there 👋
+<p align="center">
+<img align="center" alt="coding" width="170" src="https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
+</p>
 
-<!--
-**Riya-kumari-7/Riya-kumari-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=520&lines=Hi+👋,+I'm+Riya+Kumari;I'm+learning+MERN+Stack+Web+Development;🌐+Web+Developer;💻+Solved+200%2B+Problems+on+LeetCode;🤖+AI+Enthusiast;Nice+to+meet+you+😊👋)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=shubhamraj1811&label=Profile%20views&color=5689f5&style=for-the-badge" alt="amankumar849" /> 
+
+</div>
+
+- 🔭 I’m currently working on <!-- [Belleza - Animation library](https://github.com/vishal2376/belleza)  -->
+
+- 🌱 I’m currently learning **React.js**
+
+ - 👨‍💻 Checkout my Portfolio at <!-- [vishal2376.github.io](https://vishal2376.github.io) -->
+
+- 💬 Ask me about **Web Dev, C++, Python, DSA**
+<br>
+
+<h3 align="center">📫 Reach out to me on</h3>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/amankumar849"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:amankumar849000@gmail.com?subject=Hello%20Aman,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+## 👨‍💻 Tools & Platforms
+<p align="center"> 
+
+  ![C](https://img.shields.io/badge/c-000?style=for-the-badge&logo=c)
+  ![C++](https://img.shields.io/badge/c++-000?style=for-the-badge&logo=c%2B%2B) 
+  ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python) 
+  ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5&style=for-the-badge)
+  ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&style=for-the-badge)
+  ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript) 
+  ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react) 
+  ![LeetCode](https://img.shields.io/badge/-LeetCode-000?&logo=leetcode&style=for-the-badge)
+  ![MYSQL](https://img.shields.io/badge/-MYSQL-000?&logo=MySQL&style=for-the-badge)
+</p>
+
+## 📈 Stats
+<p align="center">
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amankumar849&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width="35%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amankumar849&theme=tokyonight" />
+</p>
+
+<div align="center">
+   <img width="75%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amankumar849&theme=tokyonight" />
+
+</br>
+</br>
+
+   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+
+</div>
+
+<!-- [![Aman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shubhamraj1811&hide_border=true&theme=tokyo-night)](https://github.com/shubhamraj1811) -->
