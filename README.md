@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=520&lines=Hi+👋,+I'm+Riya+Kumari;I'm+learning+MERN+Stack+Web+Development;🌐+Web+Developer;💻+Solved+200%2B+Problems+on+LeetCode;🤖+AI+Enthusiast;Nice+to+meet+you+😊👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&duration=1500&pause=1000&center=true&vCenter=true&width=520&lines=Hi+👋,+I'm+Riya+Kumari;I'm+learning+MERN+Stack+Web+Development;🌐+Web+Developer;💻+Solved+50%2B+Problems+on+LeetCode;🤖+AI+Enthusiast;Nice+to+meet+you+😊👋)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=shubhamraj1811&label=Profile%20views&color=5689f5&style=for-the-badge" alt="amankumar849" /> 
 
@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on <!-- [Belleza - Animation library](https://github.com/vishal2376/belleza)  -->
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **js**
 
  - 👨‍💻 Checkout my Portfolio at <!-- [vishal2376.github.io](https://vishal2376.github.io) -->
 
